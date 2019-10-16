@@ -1,2 +1,2 @@
 # ProductDetection
-atomatic detection of grocery product using tensorflow
+atomatic detection of grocery product using ML
